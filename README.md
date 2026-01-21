@@ -18,6 +18,7 @@
 - 🧪 [3. OpenMPI Reconstruction](#3-openmpi-reconstruction)
 - 🚀 [4. Multimodal Training and Inference](#4-multimodal-training-and-inference)
 - 🧩 [5. Single-Modal Training and Inference (TODO)](#5-single-modal-training-and-inference-todo)
+- 🧩 [Contact](#contact)
 
 ---
 
@@ -225,6 +226,10 @@ CUDA_VISIBLE_DEVICES=1 nohup python scripts/image_sample_mm.py \
   > multimodal_sampling.out 2>&1 &
 ~~~
 
----
-
 ## 5. Single-Modal Training and Inference (TODO)
+
+---
+## Contact
+
+If you encounter any issues, feel free to contact:  
+📧 **shigen@buaa.edu.cn** or **imshigen@163.com**
