@@ -18,7 +18,7 @@
 - 🧪 [3. OpenMPI Reconstruction](#3-openmpi-reconstruction)
 - 🚀 [4. Multimodal Training and Inference](#4-multimodal-training-and-inference)
 - 🧩 [5. Single-Modal Training and Inference (TODO)](#5-single-modal-training-and-inference-todo)
-- 🧩 [Contact](#contact)
+- 📧 [Contact](#contact)
 
 ---
 
