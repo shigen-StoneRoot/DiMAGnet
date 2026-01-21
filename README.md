@@ -199,7 +199,7 @@ mpiexec -n 1 python scripts/image_train.py \
   --diffusion_steps 100 \
   --noise_schedule linear \
   --lr 1e-2 \
-  --batch_size 64 \
+  --batch_size 512 \
   --predict_xstart True \
   --distill False \
   > multimodal_training.out 2>&1 &
