@@ -10,18 +10,6 @@
 
 ---
 
-## Table of Contents
-
-- 📚 [Citation](#citation)
-- ⚙️ [1. Environment Setup](#1-environment-setup)
-- 🗂️ [2. Data Preparation](#2-data-preparation)
-- 🧪 [3. OpenMPI Reconstruction](#3-openmpi-reconstruction)
-- 🚀 [4. Multimodal Training and Inference](#4-multimodal-training-and-inference)
-- 🧩 [5. Single-Modal Training and Inference (TODO)](#5-single-modal-training-and-inference-todo)
-- 📧 [Contact](#contact)
-
----
-
 ## Citation
 ```
 @article{SHI2026104086,
@@ -37,6 +25,16 @@ keywords = {Magnetic particle imaging, Diffusion model, Multimodal, Distillation
 }
 ```
 ---
+
+## Table of Contents
+
+- 📚 [Citation](#citation)
+- ⚙️ [1. Environment Setup](#1-environment-setup)
+- 🗂️ [2. Data Preparation](#2-data-preparation)
+- 🧪 [3. OpenMPI Reconstruction](#3-openmpi-reconstruction)
+- 🚀 [4. Multimodal Training and Inference](#4-multimodal-training-and-inference)
+- 🧩 [5. Single-Modal Training and Inference (TODO)](#5-single-modal-training-and-inference-todo)
+- 📧 [Contact](#contact)
 
 ## 1. Environment Setup
 
