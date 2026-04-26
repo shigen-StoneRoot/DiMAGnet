@@ -23,6 +23,7 @@
 ---
 
 ## Citation
+```
 @article{SHI2026104086,
 title = {Multimodal structure-guided diffusion model for Magnetic Particle Imaging reconstruction},
 journal = {Medical Image Analysis},
@@ -34,7 +35,7 @@ doi = {https://doi.org/10.1016/j.media.2026.104086},
 author = {Gen Shi and Wenxuan Zou and Jie He and Siao Lei and Zining Liu and Hui Zhang and Jie Tian},
 keywords = {Magnetic particle imaging, Diffusion model, Multimodal, Distillation strategy}
 }
-
+```
 ---
 
 ## 1. Environment Setup
