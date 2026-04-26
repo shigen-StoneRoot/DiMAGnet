@@ -6,7 +6,7 @@
 
 🧠 We propose a structure-guided multimodal diffusion framework for MPI reconstruction, where structural information is integrated to guide the reconstruction process and improve image fidelity and robustness.
 
-> ⚠️ Status: The manuscript is currently under **major revision** at **Medical Image Analysis (MedIA)**.
+> ⚠️ Status: The manuscript has been accepted by **Medical Image Analysis (MedIA)**.
 
 ---
 
@@ -23,7 +23,17 @@
 ---
 
 ## Citation
-📝 TODO (Under Review in Journal "Medical Image Analysis")
+@article{SHI2026104086,
+title = {Multimodal structure-guided diffusion model for Magnetic Particle Imaging reconstruction},
+journal = {Medical Image Analysis},
+volume = {112},
+pages = {104086},
+year = {2026},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2026.104086},
+author = {Gen Shi and Wenxuan Zou and Jie He and Siao Lei and Zining Liu and Hui Zhang and Jie Tian},
+keywords = {Magnetic particle imaging, Diffusion model, Multimodal, Distillation strategy}
+}
 
 ---
 
