@@ -11,6 +11,7 @@
 ---
 
 ## Citation
+If you find this work helpful in your research, please consider citing:
 ```
 @article{SHI2026104086,
 title = {Multimodal structure-guided diffusion model for Magnetic Particle Imaging reconstruction},
